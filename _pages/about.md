@@ -14,7 +14,7 @@ I have received my Bachelor's degree in *Intelligent Science and Technology* at 
 My research interent lies in **AI for Marine Science**, including *Computer Science*, *Artifical Intelligence*, *Ocean Acoustics*.
 
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: flex-end;">
 
   <!-- Ocean University of China 图片和字幕 -->
   <div style="text-align: center; margin-right: 40px;"> <!-- 增加间隔 -->
