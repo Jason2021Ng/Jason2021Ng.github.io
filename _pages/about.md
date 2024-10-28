@@ -21,7 +21,7 @@ My research interent lies in **AI for Marine Science**, including *Computer Scie
         <tr>
             <th width="20%" align="center" valign="center">
                 <a href="http://www.ouc.edu.cn/main.htm">
-                    <img src="../images/ouc.png" alt="sym" width="50%">
+                    <img src="../images/ouc.png" alt="sym" class="center-img" width="25%">
                 </a>
                 <p style="text-align:center; font-size:10pt; line-height:1.3;">
                     <b>Ocean University of China</b><br>
@@ -31,7 +31,7 @@ My research interent lies in **AI for Marine Science**, including *Computer Scie
             </th>
             <th width="20%" align="center" valign="center">
                 <a href="http://www.lsnl.com">
-                    <img src="../images/laoshan.png" alt="sym" width="50%">
+                    <img src="../images/laoshan.png" alt="sym" class="center-img" width="30%">
                 </a>
                 <p style="text-align:center; font-size:10pt; line-height:1.3;">
                     <b>National Laboratory</b><br>
