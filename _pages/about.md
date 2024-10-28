@@ -19,7 +19,7 @@ My research interent lies in **AI for Marine Science**, including *Computer Scie
 <table align="center" width="100%">
     <tbody>
         <tr>
-            <th width="20%" align="center" valign="middle">
+            <th width="20%" align="center" valign="bottom">
                 <a href="http://www.ouc.edu.cn/main.htm">
                     <img src="../images/ouc.png" alt="sym" width="25%">
                 </a>
@@ -29,8 +29,8 @@ My research interent lies in **AI for Marine Science**, including *Computer Scie
                     <span style="color:#808080">Aug. 19 - Jun. 28</span>
                 </p>
             </th>
-            <th width="20%" align="center" valign="middle">
-                <a href="http://www.qnlm.ac/index">
+            <th width="20%" align="center" valign="bottom">
+                <a href="http://www.lsnl.com">
                     <img src="../images/laoshan.png" alt="sym" width="30%">
                 </a>
                 <p style="text-align:center; font-size:10pt; line-height:1.3;">
