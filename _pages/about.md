@@ -16,25 +16,30 @@ My research interent lies in **AI for Marine Science**, including *Computer Scie
 
 
 
-<table align="center">
+<table align="center" width="100%">
     <tbody>
         <tr>
-            <th width="20%" valign="bottom" align="center">
+            <th width="20%" align="center" valign="middle">
                 <a href="http://www.ouc.edu.cn/main.htm">
-                    <img src="img/ouc.png" alt="sym" width="25%">
+                    <img src="../images/ouc.png" alt="sym" width="25%">
                 </a>
-                <p><b>Ocean University of China</b><br>
-                Undergraduate/Eng.D Student<br>
-                <span style="color:#808080">Aug. 19 - Jun. 28</span></p>
+                <p style="text-align:center; font-size:10pt; line-height:1.3;">
+                    <b>Ocean University of China</b><br>
+                    Undergraduate/Eng.D Student<br>
+                    <span style="color:#808080">Aug. 19 - Jun. 28</span>
+                </p>
             </th>
-            <th width="20%" valign="bottom" align="center">
+            <th width="20%" align="center" valign="middle">
                 <a href="http://www.qnlm.ac/index">
-                    <img src="img/laoshan.png" alt="sym" width="30%">
+                    <img src="../images/laoshan.png" alt="sym" width="30%">
                 </a>
-                <p><b>National Laboratory</b><br>
-                Eng.D Student<br>
-                <span style="color:#808080">Aug. 23 - Jun. 28</span></p>
+                <p style="text-align:center; font-size:10pt; line-height:1.3;">
+                    <b>National Laboratory</b><br>
+                    Eng.D Student<br>
+                    <span style="color:#808080">Aug. 23 - Jun. 28</span>
+                </p>
             </th>
         </tr>
     </tbody>
 </table>
+
