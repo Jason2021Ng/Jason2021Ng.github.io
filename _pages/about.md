@@ -38,9 +38,33 @@ My research interent lies in **AI for Marine Science**, including *Computer Scie
                     <span style="color:#808080">Aug. 23 - Jun. 28</span>
                 </p>
             </th>
+                      <th width="20%" align="center" valign="middle">
+                <a href="https://www.lsnl.cn/">
+                    <img src="../images/laoshan.png" alt="sym" width="30%">
+                </a>
+                <p style="text-align:center; font-size:10pt; line-height:1.3;">
+                    <b>Laoshan Laboratory</b><br>
+                    Eng.D Student<br>
+                    <span style="color:#808080">Aug. 23 - Jun. 28</span>
+                </p>
+            </th>
+                      <th width="20%" align="center" valign="middle">
+                <a href="https://www.lsnl.cn/">
+                    <img src="../images/laoshan.png" alt="sym" width="30%">
+                </a>
+                <p style="text-align:center; font-size:10pt; line-height:1.3;">
+                    <b>Laoshan Laboratory</b><br>
+                    Eng.D Student<br>
+                    <span style="color:#808080">Aug. 23 - Jun. 28</span>
+                </p>
+            </th>
         </tr>
     </tbody>
 </table>
+
+
+
+
 
 
 
