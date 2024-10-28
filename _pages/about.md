@@ -23,7 +23,7 @@ My research interent lies in **AI for Marine Science**, including *Computer Scie
                 <a href="http://www.ouc.edu.cn/main.htm">
                     <img src="../images/ouc.png" alt="sym" class="center-img" width="25%">
                 </a>
-                <p style="text-align:center; font-size:10pt; line-height:1.3;">
+                <p style="text-align:center; font-size:8pt; line-height:1.3;">
                     <b>Ocean University of China</b><br>
                     Undergraduate/Eng.D Student<br>
                     <span style="color:#808080">Aug. 19 - Jun. 28</span>
@@ -33,7 +33,7 @@ My research interent lies in **AI for Marine Science**, including *Computer Scie
                 <a href="http://www.lsnl.com">
                     <img src="../images/laoshan.png" alt="sym" class="center-img" width="30%">
                 </a>
-                <p style="text-align:center; font-size:10pt; line-height:1.3;">
+                <p style="text-align:center; font-size:8pt; line-height:1.3;">
                     <b>Laoshan Laboratory</b><br>
                     Eng.D Student<br>
                     <span style="color:#808080">Aug. 23 - Jun. 28</span>
