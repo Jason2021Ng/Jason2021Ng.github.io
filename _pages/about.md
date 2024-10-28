@@ -77,7 +77,7 @@ My research interent lies in **AI for Marine Science**, including *Computer Scie
   <!-- Ocean University of China 图片和字幕 -->
   <div style="text-align: center; margin-right: 40px;"> <!-- 增加间隔 -->
     <a href="http://www.ouc.edu.cn/main.htm">
-      <img src="img/ouc.png" alt="Ocean University of China" width="150">
+      <img src="../images/ouc.png" alt="Ocean University of China" width="150">
     </a>
     <p style="font-size:10pt; line-height:1.3; margin-top: 10px;"> <!-- 增加顶部间距 -->
       <b>Ocean University of China</b><br>
@@ -89,7 +89,7 @@ My research interent lies in **AI for Marine Science**, including *Computer Scie
   <!-- National Laboratory 图片和字幕 -->
   <div style="text-align: center;">
     <a href="http://www.qnlm.ac/index">
-      <img src="img/laoshan.png" alt="National Laboratory" width="150">
+      <img src="../images/laoshan.png" alt="National Laboratory" width="150">
     </a>
     <p style="font-size:10pt; line-height:1.3; margin-top: 10px;"> <!-- 增加顶部间距 -->
       <b>National Laboratory</b><br>
