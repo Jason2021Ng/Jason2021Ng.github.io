@@ -34,7 +34,7 @@ My research interent lies in **AI for Marine Science**, including *Computer Scie
                     <img src="../images/laoshan.png" alt="sym" class="center-img" width="30%">
                 </a>
                 <p style="text-align:center; font-size:10pt; line-height:1.3;">
-                    <b>National Laboratory</b><br>
+                    <b>Laoshan Laboratory</b><br>
                     Eng.D Student<br>
                     <span style="color:#808080">Aug. 23 - Jun. 28</span>
                 </p>
