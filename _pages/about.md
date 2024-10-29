@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently working towards the Doctor of Engineering (D.Eng), advised by Pro.*Xiujun Sun*, with *[Ocean University of China](https://www.ouc.edu.cn/)* and *[Laoshan Laboratory](https://www.lsnl.cn/)*. My research interest focus on **Ocean Acoustic Observation** including wave gliders, underwater acoustic signal processing, computational ocean acoustics, embedded development for towed acoustic array, etc.
+I'm currently working towards the Doctor of Engineering (D.Eng), advised by Pro.*Xiujun Sun*, with *[Ocean University of China](https://www.ouc.edu.cn/)* and *[Laoshan Laboratory](https://www.lsnl.cn/)*. My research interest focus on **Ocean Acoustic Observation** including *wave gliders*, *underwater acoustic signal processing*, *computational ocean acoustics*, *embedded development for towed acoustic array*, etc.
 
-
+Recently, I'm interested in **AI for Marine Science & Ocean Engineering**. Deep Learning is used to enable acoustic surveys of marine mammals, perception of target information in the marine environment, etc.
 
 
 
