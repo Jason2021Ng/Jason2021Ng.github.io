@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently working towards the Doctor of Engineering (D.Eng), advised by Pro.Xiujun Sun, with Ocean University of China and Laoshan Laboratory. My research interent lies in **AI for Marine Science**, including *Computer Science*, *Artifical Intelligence*, *Ocean Acoustics*.
+I'm currently working towards the Doctor of Engineering (D.Eng), advised by Pro.Xiujun Sun, with *[Ocean University of China](https://www.ouc.edu.cn/)* and *[Laoshan Laboratory](https://www.lsnl.cn/)*. My research interent lies in **AI for Marine Science**, including *Computer Science*, *Artifical Intelligence*, *Ocean Acoustics*.
 
 
 
