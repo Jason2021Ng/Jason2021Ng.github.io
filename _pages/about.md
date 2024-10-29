@@ -53,10 +53,16 @@ I'm currently working towards the Doctor of Engineering (D.Eng), advised by Pro.
 
 
 ## News
+- 2024.10.25 Happy 100th anniversary of *Ocean University of China*
+- 
 ## Educations
 - 2023.08 - 2028.06 Ocean University of China & Laoshan Laboratory, Eng.D Candidate
 - 2019.08 - 2023.06 Ocean University of China, Undergraduate
+
 ## Honors and Awards
+- 2024.10 Bronze Award, Huawei Ascend AI Innovation Competition 2024 in College Track (Qingdao)
+- 2023.06 Outstanding Graduates Award, Ocean University of China
+- 2021.12 National Grand Prize, The 3rd "Huiyuan Sharing" National University Open Data Innovation Research Competition of the Main Track
 
 
 
