@@ -61,7 +61,7 @@ I'm currently working towards the Doctor of Engineering (D.Eng), advised by Pro.
 - 2019.08 - 2023.06, Ocean University of China, Undergraduate
 
 ## Honors and Awards
-- 2024.10, Bronze Award (Top 10%), Huawei Ascend AI Innovation Competition 2024 (Qingdao)
+- 2024.10, Bronze Award, Huawei Ascend AI Innovation Competition 2024 (Qingdao)
 - 2023.06, Outstanding Graduates Award, Ocean University of China
 - 2021.12, National Grand Prize, The 3rd "Huiyuan Sharing" National University Open Data Innovation Research Competition of the Main Track
 
