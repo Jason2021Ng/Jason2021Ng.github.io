@@ -28,17 +28,7 @@ My research interent lies in **AI for Marine Science**, including *Computer Scie
     </p>
   </div>
 
-  <!-- Ocean University of China 图片和字幕 -->
-  <div style="text-align: center; margin-right: 60px;"> <!-- 增加间隔 -->
-    <a href="http://www.ouc.edu.cn/main.htm">
-      <img src="../images/ouc.png" alt="Ocean University of China" width="120">
-    </a>
-    <p style="font-size:10pt; line-height:1.3; margin-top: 10px;"> <!-- 增加顶部间距 -->
-      <b>Ocean University of China</b><br>
-      Eng.D Candidate<br>
-      <span style="color:#808080">Aug. 23 - Jun. 28</span>
-    </p>
-  </div>
+
   
   <!-- National Laboratory 图片和字幕 -->
   <div style="text-align: center;">
