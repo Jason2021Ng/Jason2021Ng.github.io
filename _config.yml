@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Jianxin Wu"
   pronouns         : #
-  bio              : "Eng.D student in Ocean University of China and Laoshan Laboratory."
+  bio              : "Eng.D candidate in Ocean University of China and Laoshan Laboratory."
   location         : "Qingdao, China"
   employer         : # 
   uri              : # URL
@@ -45,7 +45,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "https://github.com/Jianxin2021-CHN"
-  kaggle           : "https://www.kaggle.com/jianxin2022chn"
+  kaggle           : #
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
