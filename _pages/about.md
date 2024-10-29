@@ -33,7 +33,7 @@ I'm currently working towards the Doctor of Engineering (D.Eng), advised by Pro.
     <p style="font-size:10pt; line-height:1.3; margin-top: 10px;"> <!-- 增加顶部间距 -->
       <b>Ocean University of China</b><br>
       Eng.D Candidate<br>
-      <span style="color:#808080">Aug. 19 - Jun. 23</span>
+      <span style="color:#808080">Aug. 23 - Jun. 28</span>
     </p>
   </div>
   
